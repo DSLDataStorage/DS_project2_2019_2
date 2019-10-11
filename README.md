@@ -10,7 +10,7 @@ AVLNode.cpp AVLNode.h AVLTree.cpp AVLTree.h city_list.txt CityData.cpp CityData.
 Graph.h log.txt main.cpp Makefile Manager.cpp Manager.h
 ```
 
-## how to compile spark project
+## how to compile this project
 ```
 $ make
 ```
