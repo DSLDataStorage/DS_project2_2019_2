@@ -1,0 +1,10 @@
+1543	Seoul	Korea
+7485	Busan	Korea
+2132	Tokyo	Japan
+4873	NewYork	USA
+6542	LA	USA
+1241	Chicago	USA
+2354	Paris	France
+5419	Roma	Italy
+9821	Athens	Greece
+8590 	Hanoi	Vietnam
