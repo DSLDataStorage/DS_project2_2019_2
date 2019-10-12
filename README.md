@@ -5,7 +5,10 @@ Due date: 2019/11/8 23h 59m 59s.
 
 ![main](https://user-images.githubusercontent.com/50433145/66695287-cace2f00-ecfa-11e9-97a4-c6b94d33474e.JPG)
 
+##### 본 프로젝트는 여행 일정 관리시스템을 구현하는 것으로 상세한 설명은 프로젝트 문서와 다음 설명을 참고한다. 
+##### 
 ### requirement
+#### 특정 디렉토리에서 ls 명령어를 입력하였을때, 다음과 같이 필요한 모든 소스코드와 텍스트파일, Makefile이 존재해야한다.
 ```
 $ ls
 AVLNode.cpp AVLNode.h AVLTree.cpp AVLTree.h city_list.txt CityData.cpp CityData.h command.txt Graph.cpp
