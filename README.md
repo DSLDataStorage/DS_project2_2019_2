@@ -11,6 +11,24 @@
 
 ![main](https://user-images.githubusercontent.com/50433145/66695287-cace2f00-ecfa-11e9-97a4-c6b94d33474e.JPG)
 
+### Knowledge 
+##### 아래 명령어 예시에서 앞의 $ 로 시작되는 부분은 명령어 입력 부분이고, 그 외 는 출력 부분임
+##### 리눅스 명령어 요약
+##### 1. ls  :  list로 현재 작업중인 디렉토리의 파일 및 포함된 디렉토리 목록들을 표시 ( -a, -l 속성으로 자세한 출력 가능)
+##### 2. pwd  :  print working directory로 현재 작업중인 디렉토리의 절대경로 위치 출력
+##### 3. cd  : change directory로 디렉토리 를 변경( . : 현재 디렉토리, .. : 상위 디렉토리 ) 
+```
+$ ls
+Documents Download
+$ ls -l
+drwxr-xr-x 2 user user     4096 Sep 13  2018 Documents
+drwxr-xr-x 2 user user     4096 Sep 26  2018 Downloads
+$ pwd
+/home/user
+$ cd Download
+$ pwd
+/home/user/Downloads
+```
 ### requirement
 ##### 먼저 해당 github에 저장되어 있는 base 코드를 다운받는다.
 ```
