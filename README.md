@@ -12,6 +12,11 @@
 ![main](https://user-images.githubusercontent.com/50433145/66695287-cace2f00-ecfa-11e9-97a4-c6b94d33474e.JPG)
 
 ### requirement
+##### 먼저 해당 github에 저장되어 있는 base 코드를 다운받는다.
+```
+$ sudo apt-get install git
+$ git clone https://github.com/DSLDataStorage/DS_project2_2019_2.git
+```
 ##### 특정 디렉토리에서 ls 명령어를 입력하였을때, 다음과 같이 필요한 모든 소스코드와 텍스트파일, Makefile이 존재해야한다.
 ```
 $ ls
@@ -20,10 +25,17 @@ Graph.h log.txt main.cpp Makefile Manager.cpp Manager.h
 ```
 
 ### how to compile this project
+##### make명령어 실행 후 ls명령어를 통해 해당 디렉토리를 확인해 보면 run 이라는 파일이 생긴것을 확인 할 수 있다. 
 ```
 $ make
+g++ -std=c++11 -g -o run AVLNode.cpp AVLTree.cpp CityData.cpp Manager.cpp Graph.cpp main.cpp AVLTree.h Manager.h Graph.h AVLNode.h CityData.h
+
+$ ls
+AVLNode.cpp AVLNode.h AVLTree.cpp AVLTree.h city_list.txt CityData.cpp CityData.h command.txt Graph.cpp
+Graph.h log.txt main.cpp Makefile Manager.cpp **run** Manager.h
 ```
 ### how to run code
+##### ./(생성된 실행파일) 의 형식으로 생성된 run 실행파일을 실행한다.
 ```
 $ ./run
 ```
