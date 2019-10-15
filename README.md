@@ -17,6 +17,8 @@
 
 ##### AVL tree는 도시의 이름을 기준으로 도시들의 객체 정보가 저장되어 있다. AVL tree를 구성하는 노드들은 Balance Factor(BF)를 가지고 있으며, 이를 활용하여 트리의 균형을 유지한다. AVL tree 구성의 예시는 다음과 같다. 
 
+![AVL](https://user-images.githubusercontent.com/50433145/66795173-c8f4ad80-ef3e-11e9-837e-614d6897d65b.JPG)
+
 ### Knowledge 
 ##### 아래 명령어 예시에서 앞의 $ 로 시작되는 부분은 명령어 입력 부분이고, 그 외 는 출력 부분임
 ##### 리눅스 명령어 요약
