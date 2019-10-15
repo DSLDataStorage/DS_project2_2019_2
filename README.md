@@ -13,7 +13,7 @@
 
 ##### Graph는 비방향성을 가지며 완전연결되어 있다. Graph의 노드는 도시정보를 가지고 있고, 간선으로는 연결된 두 도시의 위치정보의 차로 이루어져 있다. 총 5개의 노드에 대한 완전 연결 Graph에 대한 예시는 다음과 같다. 
 
-![Graph](https://user-images.githubusercontent.com/50433145/66795037-571c6400-ef3e-11e9-81a1-59834655bdcc.JPG){: width="100" height="100"}
+![Graph](https://user-images.githubusercontent.com/50433145/66795037-571c6400-ef3e-11e9-81a1-59834655bdcc.JPG){: width="30%" height="30%"}
 
 ##### AVL tree는 도시의 이름을 기준으로 도시들의 객체 정보가 저장되어 있다. AVL tree를 구성하는 노드들은 Balance Factor(BF)를 가지고 있으며, 이를 활용하여 트리의 균형을 유지한다. AVL tree 구성의 예시는 다음과 같다. 
 
