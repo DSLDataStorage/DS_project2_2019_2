@@ -41,21 +41,27 @@ void Manager::run(const char * command)
 		else if (!strcmp(one, "INSERT")) {
 			//call function()
 		}
-		else if (!strcmp(one, "MOVE")) {
+		else if (!strcmp(one, "PRINT_AVL")) {
 			//call function()
 		}
-		else if (!strcmp(one, "SAVE")) {
+		else if (!strcmp(one, "SEARCH_AVL")) {
 			//call function()
 		}
-		else if (!strcmp(one, "SEARCH")) {
+		else if (!strcmp(one, "DELETE_AVL")) {
 			//call function()
 		}
-		else if (!strcmp(one, "PRINT")) {
+		else if (!strcmp(one, "BUILD_GP")) {
 			//call function()
 		}
-		else if (!strcmp(one, "COMPLETE")) {
+		else if (!strcmp(one, "PRINT_GP")) {
 			//call function()
 		}
+		else if (!strcmp(one, "BUILD_MST")) {
+			//call function()
+		}
+		else if (!strcmp(one, "PRINT_MST")) {
+			//call function()
+		}		
 		else if (!strcmp(one, "EXIT")) {
 			//call function()
 			EXIT();	
