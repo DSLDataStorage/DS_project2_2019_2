@@ -6,7 +6,7 @@ using namespace std;
 class Graph
 {
 public:
-	map<int, CityData *> mList;	// mList[from vetex] = map<to vertex, weigth>
+	map<int, CityData *> * mList;	// mList[from vetex] = map<to vertex, weigth>
 	CityData * vertex;			// vetex[index] = CityData * 
 	int size;					// AVLTree size
 	int * mstMatrix;			// MST
