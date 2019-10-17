@@ -24,8 +24,10 @@
 --------------------------
 #### 1. 프로젝트 문서 및 소스코드 수정사항
 
+[2019_DS_Project2_ver2.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3736999/2019_DS_Project2_ver2.pdf)
+
 ```
-10/15 - 프로젝트 문서의 [그림 5] Graph 구성의 예 수정 ( 노드 번호를 도시의 이름순이 되도록 수정 )
+10/15 - 프로젝트 문서의 [그림 5] Graph 구성의 예 수정 ( 노드 번호를 도시의 이름순이 되도록 수정 ver2 )
 10/16 - Base 코드 Manager.cpp 수정 ( run() 내부에서 호출되는 함수 이름 수정 )
 10/17 - Base 코드 Graph.h 수정 ( 멤버 변수 mList 를 PDF 와 동일하게 * mList로 수정 )
 ```
