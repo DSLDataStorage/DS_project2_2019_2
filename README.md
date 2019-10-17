@@ -20,9 +20,9 @@
 <img src="https://user-images.githubusercontent.com/50433145/66795173-c8f4ad80-ef3e-11e9-837e-614d6897d65b.JPG" width="70%" height="70%">
 
 
-### <u>**Notice**</u>
+## <u>**Notice**</u>
 --------------------------
-#### 1. 프로젝트 문서 및 소스코드 수정사항
+### 1. 프로젝트 문서 및 소스코드 수정사항
 
 [2019_DS_Project2_ver2.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3736999/2019_DS_Project2_ver2.pdf)
 
