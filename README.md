@@ -36,7 +36,7 @@
 10/17 - Base 코드 Graph.h 수정 ( 멤버 변수 mList, vertex 를 PDF 와 동일하게 수정 )
 10/18 - 프로젝트 문서의 Functional Requirement의 SEARCH_AVL 사용법 수정 ( 도시 이름 -> 도시위치정보 ) 
 10/22 - new) 프로젝트 문서의 Functional Requirement의 INSERT 에러 코드 오타 수정( 100 -> 200 )
-      - 프로젝트 문서의 구현시 반드시 정의해야하는 Class alc 멤버 변수의 4.Graph 클래스의 멤버 변수의 이름을 matrix(=mList), mst(=mstMatrix)
+      - 프로젝트 문서의 구현시 반드시 정의해야하는 Class 멤버 변수의 4.Graph 클래스의 멤버 변수의 이름을 matrix(=mList), mst(=mstMatrix)
         와같이 두 이름 모두 가능하도록 표기하여 수정                
 ```
 ### Knowledge 
