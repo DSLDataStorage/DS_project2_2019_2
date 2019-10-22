@@ -29,10 +29,10 @@
 #### [2019_DS_Project2_ver4.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3753691/2019_DS_Project2_ver4.pdf)
 
 ### 2. 자주들어오는 질문 
-#### Q. base 코드의 멤버변수가 public으로 되어 있어요~
+#### **Q. base 코드의 멤버변수가 public으로 되어 있어요~**
 #### A. 그냥 private으로 된것처럼 get/set함수를 이용해서 멤버변수를 이용해주시면 됩니다. 
 #### 
-#### Q. LOAD랑 INSERT도 명령어 인자 추가 혹은 부족할때 예외처리해야하나요??
+#### **Q. LOAD랑 INSERT도 명령어 인자 추가 혹은 부족할때 예외처리해야하나요??**
 #### A. LOAD랑 INSERT는 그런 경우가 없다고 가정하였으니 안해도됩니다!!
 
 ```
