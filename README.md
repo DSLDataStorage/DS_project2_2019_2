@@ -26,6 +26,8 @@
 
 #### [2019_DS_Project2_ver2.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3736999/2019_DS_Project2_ver2.pdf)
 #### [2019_DS_Project2_ver3.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3742331/2019_DS_Project2_ver3.pdf)
+#### [2019_DS_Project2_ver4.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3753417/2019_DS_Project2_ver4.pdf)
+
 
 
 ```
