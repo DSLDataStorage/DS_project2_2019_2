@@ -28,13 +28,6 @@
 #### [2019_DS_Project2_ver3.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3742331/2019_DS_Project2_ver3.pdf)
 #### [2019_DS_Project2_ver4.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3753691/2019_DS_Project2_ver4.pdf)
 
-### 2. 자주들어오는 질문 
-**Q. base 코드의 멤버변수가 public으로 되어 있어요~**  
-A. 그냥 private으로 된것처럼 get/set함수를 이용해서 멤버변수를 이용해주시면 됩니다.   
-
-
-**Q. LOAD랑 INSERT도 명령어 인자 추가 혹은 부족할때 예외처리해야하나요??**  
-A. LOAD랑 INSERT는 그런 경우가 없다고 가정하였으니 안해도됩니다!!  
 
 ```
 10/15 - 프로젝트 문서의 [그림 5] Graph 구성의 예 수정 ( 노드 번호를 도시의 이름순이 되도록 수정 ver2 )
@@ -45,6 +38,17 @@ A. LOAD랑 INSERT는 그런 경우가 없다고 가정하였으니 안해도됩�
       - 프로젝트 문서의 구현시 반드시 정의해야하는 Class 멤버 변수의 4.Graph 클래스의 멤버 변수의 이름을 matrix(=mList), mst(=mstMatrix)
         와같이 두 이름 모두 가능하도록 표기하여 수정                
 ```
+
+
+### 2. 자주들어오는 질문 
+**Q. base 코드의 멤버변수가 public으로 되어 있어요~**  
+A. 그냥 private으로 된것처럼 get/set함수를 이용해서 멤버변수를 이용해주시면 됩니다.   
+
+
+**Q. LOAD랑 INSERT도 명령어 인자 추가 혹은 부족할때 예외처리해야하나요??**  
+A. LOAD랑 INSERT는 그런 경우가 없다고 가정하였으니 안해도됩니다!!  
+
+
 ### Knowledge 
 ##### 아래 명령어 예시에서 앞의 $ 로 시작되는 부분은 명령어 입력 부분이고, 그 외 는 출력 부분임
 ##### 리눅스 명령어 요약
