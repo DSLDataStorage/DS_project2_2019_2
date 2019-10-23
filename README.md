@@ -27,7 +27,7 @@
 #### [2019_DS_Project2_ver2.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3736999/2019_DS_Project2_ver2.pdf)
 #### [2019_DS_Project2_ver3.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3742331/2019_DS_Project2_ver3.pdf)
 #### [2019_DS_Project2_ver4.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3753691/2019_DS_Project2_ver4.pdf)
-#### [2019_DS_Project2_ver5.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3759220/2019_DS_Project2_ver5.pdf)
+#### [2019_DS_Project2_ver5.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3759259/2019_DS_Project2_ver5.pdf)
 
 
 ```
@@ -40,6 +40,7 @@
         와같이 두 이름 모두 가능하도록 표기하여 수정
 10/23 - new) 프로젝트 문서의 Functional Requirement의 SEARCH_AVL과 DELETE_AVL의 에러코드를 Error code 표에 명시한거와 같이 수정 ( 
             SEARCH_AVL - 500 , DELETE_AVL - 400 )
+       - 그림 3의 Graph 클래스의 Size변수의 사용여부는 선택사항
 ```
 
 
