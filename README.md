@@ -22,11 +22,12 @@
 
 ## <u>**Notice**</u>
 --------------------------
-### 1. 프로젝트 문서 및 소스코드 수정사항 ( update 10/22 )
+### 1. 프로젝트 문서 및 소스코드 수정사항 ( update 10/23 )
 
 #### [2019_DS_Project2_ver2.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3736999/2019_DS_Project2_ver2.pdf)
 #### [2019_DS_Project2_ver3.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3742331/2019_DS_Project2_ver3.pdf)
 #### [2019_DS_Project2_ver4.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3753691/2019_DS_Project2_ver4.pdf)
+#### [2019_DS_Project2_ver5.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3759220/2019_DS_Project2_ver5.pdf)
 
 
 ```
@@ -34,9 +35,11 @@
 10/16 - Base 코드 Manager.cpp 수정 ( run() 내부에서 호출되는 함수 이름 수정 )
 10/17 - Base 코드 Graph.h 수정 ( 멤버 변수 mList, vertex 를 PDF 와 동일하게 수정 )
 10/18 - 프로젝트 문서의 Functional Requirement의 SEARCH_AVL 사용법 수정 ( 도시 이름 -> 도시위치정보 ) 
-10/22 - new) 프로젝트 문서의 Functional Requirement의 INSERT 에러 코드 오타 수정( 100 -> 200 )
+10/22 - 프로젝트 문서의 Functional Requirement의 INSERT 에러 코드 오타 수정( 100 -> 200 )
       - 프로젝트 문서의 구현시 반드시 정의해야하는 Class 멤버 변수의 4.Graph 클래스의 멤버 변수의 이름을 matrix(=mList), mst(=mstMatrix)
-        와같이 두 이름 모두 가능하도록 표기하여 수정                
+        와같이 두 이름 모두 가능하도록 표기하여 수정
+10/23 - new) 프로젝트 문서의 Functional Requirement의 SEARCH_AVL과 DELETE_AVL의 에러코드를 Error code 표에 명시한거와 같이 수정 ( 
+            SEARCH_AVL - 500 , DELETE_AVL - 400 )
 ```
 
 
@@ -46,7 +49,7 @@ A. 그냥 private으로 된것처럼 get/set함수를 이용해서 멤버변수�
 
 
 **Q. LOAD랑 INSERT도 명령어 인자 추가 혹은 부족할때 예외처리해야하나요??**  
-A. LOAD랑 INSERT는 그런 경우가 없다고 가정하였으니 안해도됩니다!!  
+A. LOAD랑 INSERT는 그런 경우가 없다고 가정하였으니 안해도됩니다!! 
 
 --------------------------
 ### Knowledge 
