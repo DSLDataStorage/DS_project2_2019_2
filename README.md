@@ -22,6 +22,9 @@
 
 ## <u>**Notice**</u>
 --------------------------
+### (( 11/1 추가 사항 ))
+![추가자료](https://user-images.githubusercontent.com/50433145/67996680-ce1e6000-fc93-11e9-8a13-b79125b31bb2.JPG)
+
 ### 1. 프로젝트 문서 및 소스코드 수정사항 ( update 10/23 )
 
 #### [2019_DS_Project2_ver2.pdf](https://github.com/DSLDataStorage/DS_project2_2019_2/files/3736999/2019_DS_Project2_ver2.pdf)
