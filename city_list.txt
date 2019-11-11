@@ -7,4 +7,4 @@
 2354	Paris	France
 5419	Roma	Italy
 9821	Athens	Greece
-8590 	Hanoi	Vietnam
+8590  Hanoi Vietnam
