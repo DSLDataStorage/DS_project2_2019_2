@@ -11,5 +11,3 @@ jobs:
     - uses: actions/checkout@v1
     - name: make
       run: make
-    - name: run
-      run : /bin/bash -e run
