@@ -12,4 +12,4 @@ jobs:
     - name: make
       run: make
     - name: run
-      run : ./run
+      run : /bin/bash -e run
